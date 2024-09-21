@@ -1,14 +1,18 @@
-# Hi there, I'm Rizwan! 👋
+# Hi there, 
+# I'm Rizwan! 👋
 
 ## ![Welcome Banner](https://via.placeholder.com/5000x200/4CAF50/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 
 ## 🚀 About Me
 <div style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
   
-I am a **Cloud Engineer**. Experience in designing, deploying, and managing cloud resources and services. My expertise spans across **AWS, Azure, Docker, Kubernetes, Jenkins, Terraform,** and **Cloudera CDP**. I specialize in optimizing cloud costs, implementing effective cloud cost control strategies, and ensuring high availability, disaster recovery, and data backup.
+I am a **Cloud/DevOps Engineer**. Experience in designing, deploying, and managing cloud resources and services. My expertise spans across **AWS, Azure, Docker, Kubernetes, Jenkins, Terraform,** and **Cloudera CDP**. I specialize in optimizing cloud costs, implementing effective cloud cost control strategies, and ensuring high availability, disaster recovery, and data backup.
 </div>
 
 ## 🛠️ Skills
+
+
+
 <div style="background-color:#e0f7fa; padding:10px; border-radius:10px;">
   
 ## Cloud Platforms
